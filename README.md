@@ -1,1 +1,0 @@
-# antseed-verification
